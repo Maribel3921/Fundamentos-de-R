@@ -2,7 +2,7 @@
 
 Este repositorio contiene un script en **R** diseñado para realizar un análisis exploratorio de una base de datos que incluye una columna llamada **Edad**. El propósito es cargar datos desde un archivo CSV, realizar limpieza básica, calcular valores de tendencia central y visualizar la distribución de edades mediante un histograma.
 
-## Funcionalidades
+## Estructura del script
 Carga interactiva de archivos CSV  
 Revisión de la estructura del dataset  
 Limpieza de datos y tratamiento de valores faltantes (NA)  
